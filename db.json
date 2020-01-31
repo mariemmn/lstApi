@@ -1,10 +1,5 @@
 {
-  "account": {
-    "id": 1,
-    "toPay": "0.00",
-    "currentBalance": "0.00"
-  },
-  "transactions": [
+   "transactions": [
     {
       "id": 1,
       "title": "One of a kind",
@@ -17,5 +12,11 @@
       "price": "159.00",
       "url": "https://images.unsplash.com/photo-1417325384643-aac51acc9e5d?q=75&fm=jpg&w=1080&fit=max",
     }
-  ]
+  ],
+  "account": {
+    "id": 1,
+    "toPay": "0.00",
+    "currentBalance": "0.00",
+  },
+ 
 }
